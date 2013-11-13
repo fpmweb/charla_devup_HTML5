@@ -4,6 +4,10 @@ Charla DevUp HTML5
 Conferencia que se centra en el presente y futuro del desarrollo HTML5
 http://devup.ideateca.com/html5/2012/
 
+# De web a app
+
+El taller va dirigido a diseñadores o desarrolladores web que quieren introducirse en el mundo de las apps nativas. Se mostrará como se puede desarrollar una app y colgarla en la App Store sin tener conocimientos de programación de lenguajes nativos como Objective-C.
+
 
 # Talk
 
