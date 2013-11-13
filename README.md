@@ -9,4 +9,4 @@ http://devup.ideateca.com/html5/2012/
 
 [![ScreenShot](https://github.com/fpmweb/charla_devup_HTML5/blob/master/talk-video.png?raw=true)](http://www.youtube.com/watch?v=C1p0gOZkvcQ)
 
-* [de WEB a APP (PDF)](https://github.com/fpmweb/charla_devup_HTML5/blob/master/deWEBaAPP.pdf?raw=true)
+[de WEB a APP (PDF)](deWEBaAPP.pdf)
