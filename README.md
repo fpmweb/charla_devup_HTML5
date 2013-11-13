@@ -9,7 +9,7 @@ http://devup.ideateca.com/html5/2012/
 El taller va dirigido a diseñadores o desarrolladores web que quieren introducirse en el mundo de las apps nativas. Se mostrará como se puede desarrollar una app y colgarla en la App Store sin tener conocimientos de programación de lenguajes nativos como Objective-C.
 
 
-# Talk
+# Material
 
 Vídeo de la charla:
 
